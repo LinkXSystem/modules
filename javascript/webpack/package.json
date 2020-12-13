@@ -1,0 +1,17 @@
+{
+  "name": "webpack",
+  "version": "0.0.1",
+  "description": "the mini webpack",
+  "main": "bundler.js",
+  "scripts": {
+    "build": "node bundler.js --entry ./example/entry.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/parser": "^7.12.10",
+    "@babel/preset-env": "^7.12.10",
+    "@babel/traverse": "^7.12.10"
+  }
+}
