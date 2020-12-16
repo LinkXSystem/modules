@@ -6,8 +6,8 @@
   "scripts": {
     "build": "node bundler.js --entry ./example/entry.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "zhi",
+  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.12.10",
     "@babel/parser": "^7.12.10",
