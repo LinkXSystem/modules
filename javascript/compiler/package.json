@@ -1,0 +1,11 @@
+{
+  "name": "compiler",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.test.js"
+  },
+  "author": "zhi",
+  "license": "MIT"
+}
