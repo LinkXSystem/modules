@@ -1,0 +1,14 @@
+{
+  "name": "acorn-cube",
+  "version": "0.0.1",
+  "description": "this is acorn example !",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "zhi",
+  "license": "MIT",
+  "dependencies": {
+    "acorn": "^8.0.4"
+  }
+}
