@@ -1,0 +1,14 @@
+{
+  "name": "memory-leak",
+  "version": "0.0.1",
+  "description": "This is the example of memory-leak !",
+  "main": "index.js",
+  "scripts": {
+    "test": "ls -al | grep heapsnapshot"
+  },
+  "author": "zhi",
+  "license": "MIT",
+  "devDependencies": {
+    "heapdump": "^0.3.15"
+  }
+}
