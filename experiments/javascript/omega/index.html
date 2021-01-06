@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Omega</title>
+    <style>
+        html,
+        body,
+        * {
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            position: relative;
+            width: 100vw;
+            height: 100vh;
+        }
+
+        #container,
+        #canvas {
+            width: 100vw;
+            height: 100vh;
+        }
+
+        #container {
+            overflow: hidden;
+        }
+
+        #canvas {
+            transform-origin: center;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="container">
+        <div id="canvas">
+            <div style="width: 100px; height: 100px; background: red;"></div>
+        </div>
+    </div>
+    <script src="./main.js" type="module"></script>
+</body>
+
+</html>
