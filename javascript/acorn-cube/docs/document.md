@@ -23,3 +23,4 @@ ES 的 Token 的标准定义
 ## 参考文章
 
 - [使用 Acorn 来解析 JavaScript](https://juejin.cn/post/6844903450287800327)
+- [Build a JS Interpreter in JavaScript Using Acorn as a Parser](https://blog.bitsrc.io/build-a-js-interpreter-in-javascript-using-acorn-as-a-parser-5487bb53390c)
