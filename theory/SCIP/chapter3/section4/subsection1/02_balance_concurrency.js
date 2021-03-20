@@ -1,1 +1,0 @@
-let balance = 100;

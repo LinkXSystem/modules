@@ -1,1 +1,0 @@
-const gcd_controller =
