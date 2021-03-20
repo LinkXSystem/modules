@@ -1,3 +1,6 @@
+# ignore vscode configuration
+.vscode
+
 # ignore node_modules
 node_modules
 
