@@ -89,7 +89,7 @@ LeetCode 的相关题目，地址如下：
 - https://leetcode.com/problems/linked-list-cycle-ii
 - https://leetcode.com/problems/reverse-nodes-in-k-group
 
-## 堆栈、队列列(Stack、Queue)
+## 堆栈、队列(Stack、Queue)
 
 LeetCode 的相关题目，地址如下：
 
