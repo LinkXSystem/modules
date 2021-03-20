@@ -8,3 +8,4 @@
 
 - [1] 灰度化与二值化 : https://chenoge.github.io/2017/12/24/%E7%81%B0%E5%BA%A6%E5%8C%96%E4%B8%8E%E4%BA%8C%E5%80%BC%E5%8C%96/
 - [2] XMind : https://www.xmind.net/m/5Wgf/
+- [3] Auto Threshold : http://fiji.sc/wiki/index.php/Auto_Threshold
